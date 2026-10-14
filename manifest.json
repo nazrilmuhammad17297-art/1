@@ -1,0 +1,14 @@
+{
+  "name": "XI TKJ — Kelas Digital",
+  "short_name": "XI TKJ",
+  "description": "Aplikasi kelas XI TKJ: tugas, absensi, jadwal, piket, dan organisasi kelas.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#10172e",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
